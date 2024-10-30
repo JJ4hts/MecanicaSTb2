@@ -1,0 +1,78 @@
+<CodeWalkerProject>
+  <Name>New CodeWalker Project</Name>
+  <Version value="1" />
+  <YmapFilenames>
+    <Item>lr_sc1_10_critical_0.ymap</Item>
+    <Item>lr_sc1_10_strm_1.ymap</Item>
+    <Item>lr_sc1_22_critical_0.ymap</Item>
+    <Item>lr_sc1_22_long_0.ymap</Item>
+    <Item>lr_sc1_22_strm_0.ymap</Item>
+    <Item>lr_sc1_occl_00.ymap</Item>
+    <Item>lr_sc1_rd.ymap</Item>
+    <Item>lr_sc1_rd_critical_0.ymap</Item>
+    <Item>lr_sc1_rd_long_0.ymap</Item>
+    <Item>lr_sc1_rd_long_1.ymap</Item>
+    <Item>mec_sto_exterior.ymap</Item>
+    <Item>mec_sto_mlo.ymap</Item>
+  </YmapFilenames>
+  <YtypFilenames>
+    <Item>gustavera_mec_sto_exterior.ytyp</Item>
+    <Item>gustavera_mec_sto_mlo.ytyp</Item>
+  </YtypFilenames>
+  <YbnFilenames>
+    <Item>gustavera_mec_sto_col.ybn</Item>
+    <Item>sc1_22_0.ybn</Item>
+  </YbnFilenames>
+  <YndFilenames />
+  <YnvFilenames />
+  <TrainsFilenames />
+  <ScenarioFilenames />
+  <AudioRelFilenames />
+  <YdrFilenames>
+    <Item>gr_prop_gr_bench_03b.ydr</Item>
+    <Item>gustavera_mec_sto_banheiro1.ydr</Item>
+    <Item>gustavera_mec_sto_banheiro2.ydr</Item>
+    <Item>gustavera_mec_sto_beams.ydr</Item>
+    <Item>gustavera_mec_sto_carrack.ydr</Item>
+    <Item>gustavera_mec_sto_corrimao.ydr</Item>
+    <Item>gustavera_mec_sto_door.ydr</Item>
+    <Item>gustavera_mec_sto_door2.ydr</Item>
+    <Item>gustavera_mec_sto_door3.ydr</Item>
+    <Item>gustavera_mec_sto_doorb.ydr</Item>
+    <Item>gustavera_mec_sto_doorf.ydr</Item>
+    <Item>gustavera_mec_sto_doorh.ydr</Item>
+    <Item>gustavera_mec_sto_doorm.ydr</Item>
+    <Item>gustavera_mec_sto_dutos.ydr</Item>
+    <Item>gustavera_mec_sto_elev_01.ydr</Item>
+    <Item>gustavera_mec_sto_elev_02.ydr</Item>
+    <Item>gustavera_mec_sto_espelho1.ydr</Item>
+    <Item>gustavera_mec_sto_espelho2.ydr</Item>
+    <Item>gustavera_mec_sto_exterior.ydr</Item>
+    <Item>gustavera_mec_sto_faixa.ydr</Item>
+    <Item>gustavera_mec_sto_luz.ydr</Item>
+    <Item>gustavera_mec_sto_luz2.ydr</Item>
+    <Item>gustavera_mec_sto_mesa.ydr</Item>
+    <Item>gustavera_mec_sto_pool.ydr</Item>
+    <Item>gustavera_mec_sto_quadro.ydr</Item>
+    <Item>gustavera_mec_sto_shell.ydr</Item>
+    <Item>gustavera_mec_sto_shell2.ydr</Item>
+    <Item>gustavera_mec_sto_shell3.ydr</Item>
+    <Item>gustavera_mec_sto_stairs.ydr</Item>
+    <Item>gustavera_mec_sto_vents.ydr</Item>
+    <Item>sc1_22_grounda.ydr</Item>
+    <Item>sc1_22_grounda_dcl.ydr</Item>
+    <Item>sc1_22_mall_04bb.ydr</Item>
+    <Item>sc1_22_mall_dec.ydr</Item>
+    <Item>sc1_22_mall_railings_02.ydr</Item>
+    <Item>sc1_22_park_sld_01.ydr</Item>
+  </YdrFilenames>
+  <YddFilenames>
+    <Item>sc1_22_slod1_children.ydd</Item>
+  </YddFilenames>
+  <YftFilenames />
+  <YtdFilenames>
+    <Item>gustavera_mec_sto.ytd</Item>
+    <Item>gustavera_mec_sto_mlo.ytd</Item>
+    <Item>sc1_22_antifizz.ytd</Item>
+  </YtdFilenames>
+</CodeWalkerProject>
